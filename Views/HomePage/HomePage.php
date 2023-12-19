@@ -5,12 +5,14 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <?php require_once "../BodyHomePage/Link.php" ?>
     <?php require_once "../Navbar/Link.php"?>
     <?php require_once "../Footer/Link.php" ?>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body>
+    <?php require_once "../BodyHomePage/BodyHomePage.php" ?>
     <?php require_once "../Navbar/Navbar.php" ?>
     <?php require_once "../Footer/Footer.php" ?>
     
