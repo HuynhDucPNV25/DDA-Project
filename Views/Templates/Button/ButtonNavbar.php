@@ -16,6 +16,16 @@
     a:hover {
         text-decoration: none;
     }
+    #ButtonNavbar:focus {
+        color: #DC85A7;
+        background-color:darkcyan;
+    }
+    #text1:hover{
+        color: pink;
+    }
+
+        
+       
 </style>
 
 
