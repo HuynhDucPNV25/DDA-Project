@@ -34,9 +34,7 @@
                     </div>
                 </div>
             </div>
-
         </div>      
-    </div>
     <div class="row">
         <div class="col"></div>
         <div class="col d-flex justify-content-center">
@@ -51,8 +49,9 @@
                     <a href="https://www.youtube.com"><i id="icon" class="fa-brands fa-youtube"></i></a>
                 </div>
             </div>
+            <div class="col"></div>
         </div>
-        <div class="col"></div>
     </div>
     </div>
+  </div>
 </footer>
