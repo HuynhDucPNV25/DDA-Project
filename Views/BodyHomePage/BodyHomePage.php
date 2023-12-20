@@ -103,3 +103,5 @@
     </div>
 </div>
 <?php generateDiscountHeader("CHOSEN FOR YOU");?>
+
+<?php ?>
