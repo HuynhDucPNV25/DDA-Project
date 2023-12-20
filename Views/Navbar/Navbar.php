@@ -15,7 +15,7 @@ require_once "../Templates/Profile/ProfileNavbar.php";
                 </span>
             </nav>
         </div>
-    </div><br>
+    </div>
 
     <div class="row">
         <div class="col-7">
