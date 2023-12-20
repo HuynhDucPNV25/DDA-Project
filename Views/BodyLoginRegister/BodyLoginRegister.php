@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" id="containerLog">
 
     <div class="column" id="log">
         <h2>Login</h2>
