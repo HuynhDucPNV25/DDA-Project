@@ -84,8 +84,14 @@
         </div>
         <div class="row">
             <div class="col">
-                
-
+                <select id="date">
+                    <!-- Sử dụng vòng lặp for để tạo các tùy chọn từ 1 đến 30 -->
+                    <!-- Giả sử 30 là số ngày bạn muốn -->
+                    <!-- Bạn cũng có thể thay đổi giá trị 30 thành số ngày bạn muốn -->
+                    <?php for ($day = 1; $day <= 30; $day++) { ?>
+                        <option value="<?php echo $day; ?>"><?php echo $day; ?></option>
+                    <?php } ?>
+                </select>
             </div>
             <div class="col">
 
