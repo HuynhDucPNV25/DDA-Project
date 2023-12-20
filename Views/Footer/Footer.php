@@ -35,22 +35,22 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col"></div>
-        <div class="col d-flex justify-content-center">
-            <div>
-                <div id="follow" class="d-flex justify-content-center">
-                    <h4>Follow us</h4>
-                </div>
-                <div id="icon" class="d-flex justify-content-center">
-                    <a href="https://www.facebook.com"><i id="icon" class="fa-brands fa-facebook"></i></a>
-                    <a href="https://www.twitter.com"><i id="icon" class="fa-brands fa-twitter"></i></a>
-                    <a href="https://www.instagram.com"><i id="icon" class="fa-brands fa-square-instagram"></i></a>
-                    <a href="https://www.youtube.com"><i id="icon" class="fa-brands fa-youtube"></i></a>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col d-flex justify-content-center">
+                <div>
+                    <div id="follow" class="d-flex justify-content-center">
+                        <h4>Follow us</h4>
+                    </div>
+                    <div id="icon" class="d-flex justify-content-center">
+                        <a href="https://www.facebook.com"><i id="icon" class="fa-brands fa-facebook"></i></a>
+                        <a href="https://www.twitter.com"><i id="icon" class="fa-brands fa-twitter"></i></a>
+                        <a href="https://www.instagram.com"><i id="icon" class="fa-brands fa-square-instagram"></i></a>
+                        <a href="https://www.youtube.com"><i id="icon" class="fa-brands fa-youtube"></i></a>
+                    </div>
                 </div>
             </div>
+            <div class="col"></div>
         </div>
-        <div class="col"></div>
     </div>
 </footer>
