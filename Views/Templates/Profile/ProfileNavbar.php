@@ -104,7 +104,7 @@
         <form class="form-inline" id="ProfileNavbar">
             <a href=""
             <a href=""> <i id="iconSignin" class="fa-solid fa-right-to-bracket"></i></a>
-            <a href="?Login" id="textBelowIcon" class="iconText2">Logout</a>    
+            <a href="?Login" id="textBelowIcon" class="iconText2">LOG IN</a>    
         </form>
         ';
     }
