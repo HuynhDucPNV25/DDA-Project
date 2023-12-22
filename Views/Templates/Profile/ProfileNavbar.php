@@ -31,7 +31,6 @@
 
         #iconProfile {
             position: absolute;
-
             bottom: -40px;
             font-size: 20px;
             font-family: 'Noto Sans', sans-serif;
