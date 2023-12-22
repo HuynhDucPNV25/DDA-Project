@@ -1,11 +1,15 @@
 <?php
-require_once "../Templates/Button/ButtonNavbar.php";
-require_once "../Templates/Search/SearchNavbar.php";
-require_once "../Templates/Cart/CartNavbar.php";
-require_once "../Templates/Profile/ProfileNavbar.php";
-
+require_once APP_ROOT."/Views/Templates/Button/ButtonNavbar.php";
+require_once APP_ROOT."/Views/Templates/Search/SearchNavbar.php";
+require_once APP_ROOT."/Views/Templates/Cart/CartNavbar.php";
+require_once APP_ROOT."/Views/Templates/Profile/ProfileNavbar.php";
 
 ?>
+<style>
+    <?php
+        require_once APP_ROOT."/Assets/CSS/Navbar/navbar.css";
+    ?>
+</style>
 <div id="main-container" class="container-fluid">
     <div class="row">
         <div class="col">
