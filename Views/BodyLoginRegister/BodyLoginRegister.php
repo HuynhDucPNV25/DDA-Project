@@ -1,3 +1,8 @@
+<style>
+    <?php
+        require_once APP_ROOT."/Assets/CSS/BodyLoginRegister/BodyLoginRegister.css";
+    ?>
+</style>
 <div class="container" id="containerLog">
 
     <div class="column" id="log">

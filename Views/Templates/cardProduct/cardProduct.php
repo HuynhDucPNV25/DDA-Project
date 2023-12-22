@@ -118,7 +118,9 @@
   text-transform: capitalize;
 }
 
-.oldPrice {}
+.oldPrice {
+    color:black;
+}
 
 .newPrice {
   color: #F40707;

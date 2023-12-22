@@ -6,18 +6,18 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <?php require_once "../Navbar/Link.php" ?>
-    <?php require_once "../Footer/Link.php" ?>
-    <?php require_once "../BodyLoginRegister/Link.php" ?>
+    <?php require_once APP_ROOT."/Views/BodyLoginRegister/Link.php" ?>
+    <?php require_once APP_ROOT."/Views/Navbar/Link.php"?>
+    <?php require_once APP_ROOT."/Views/Footer/Link.php" ?>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
 <body>
-    <?php require_once "../Navbar/Navbar.php" ?>
-    <?php require_once "../BodyLoginRegister/BodyLoginRegister.php" ?>
-    <?php require_once "../Footer/Footer.php" ?>
+    <?php require_once APP_ROOT."/Views/Navbar/Navbar.php" ?>
+    <?php require_once APP_ROOT."/Views/BodyLoginRegister/BodyLoginRegister.php" ?>
+    <?php require_once APP_ROOT."/Views/Footer/Footer.php" ?>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
