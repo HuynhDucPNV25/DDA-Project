@@ -1,0 +1,17 @@
+#main-container {
+    background-color: #DC85A7;
+}
+
+#brand {
+    font-family: 'Monomaniac One', cursive;
+    width: 100% ;
+    color: #FFF;
+    text-align: center;
+    text-shadow: 0px 6.891px 6.891px rgba(0, 0, 0, 0.25);
+    font-size: 40.457px;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 5.337px;
+    text-transform: uppercase;
+}
+

@@ -1,0 +1,72 @@
+#hr {
+  border: 2px solid #F3A9C6;
+}
+
+#borderHr {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#buttonSignUp,
+#buttonSignIn {
+  width: 161.434px;
+  height: 49px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #ffffff;
+  color: Black;
+  text-align: center;
+  font-family: Poly;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 98.7%;
+  /* 24.675px */
+  text-transform: uppercase;
+}
+
+#buttonSignUp:focus,
+#buttonSignIn:focus,
+#buttonSignUp:hover,
+#buttonSignIn:hover {
+  width: 161.434px;
+  height: 49px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #000;
+  color: #FFF;
+  text-align: center;
+  font-family: Poly;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 98.7%;
+  /* 24.675px */
+  text-transform: uppercase;
+}
+
+
+#banner img {
+  position: relative;
+  width: 1518px;
+  height: 500px;
+  margin-top: 50px;
+}
+.discountBanner {
+  position: absolute;
+  top: 271px;
+  right: 50px;
+  color: #FFF;
+  font-family: Days One;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 147.5%; /* 147.5px */
+  letter-spacing: 33px;
+  text-transform: capitalize;
+}
+.btnBanner {
+  position: absolute;
+  top: 450px;
+  right: 80px;
+}
